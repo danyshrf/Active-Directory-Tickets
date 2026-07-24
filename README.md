@@ -48,4 +48,4 @@
 - I logged into their computer using the local admin account.
 - I disconnected the PC from the domain (putting it in a Workgroup) and restarted the computer.
 - Then, I rejoined the PC back to the domain using my admin credentials and restarted it one last time. The user was then able to log in normally.
-- Screenshot:
+- Screenshot: ![The trust relationship error and the welcome to domain success message](https://github.com/danyshrf/Active-Directory-Tickets/blob/main/Tickets%20screenshots/5-trust.png)
