@@ -8,7 +8,7 @@
 - I opened their account properties in ADUC and went to the Account tab.
 - I checked the "Unlock account" box and saved it.
 - I asked the user to try logging in again, and they got in successfully.
-- Screenshot: ![Checking the unlock account box in ADUC](1-Account_unlocking.png)
+- Screenshot: ![The user account got Locked](https://github.com/danyshrf/Active-Directory-Tickets/blob/main/Tickets%20screenshots/1-Account-Lockout.png)
 - ![Checking the unlock account box in ADUC](ticket1-lockout.png)
 
 
