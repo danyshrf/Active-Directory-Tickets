@@ -19,7 +19,8 @@
 - I added the user to the GRP_HR_ReadWrite group in ADUC.
 - Since permissions update when a user logs in, I asked them to log out and log back in.
 - After that, they were able to open the folder and access the files without any issues.
-- Screenshot:
+- Screenshot: ![User Access Denied error](https://github.com/danyshrf/Active-Directory-Tickets/blob/main/Tickets%20screenshots/2-Access_denied.png)
+-  ![Access Denied error and the user finally accessing the folder](https://github.com/danyshrf/Active-Directory-Tickets/blob/main/Tickets%20screenshots/2-User_Accessed.png)
 
 ## Ticket 3: Day-One Password Reset
 ### The Issue: A brand-new employee forgot the temporary password we gave them and couldn't log into their workstation on their first day.
