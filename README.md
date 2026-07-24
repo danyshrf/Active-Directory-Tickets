@@ -20,11 +20,20 @@
 - After that, they were able to open the folder and access the files without any issues.
 - Screenshot:
 
-## Ticket 4: Urgent Employee Offboarding
+## Ticket 3: Urgent Employee Offboarding
 ### The Issue: HR sent an urgent message that an employee left the company suddenly, and we needed to cut off their system access immediately to protect company data.
 ### What I Checked: I pulled up their account in ADUC to see exactly what department groups and files they currently had access to.
 ### How I Fixed It:
 - First, I right-clicked their account and hit "Disable Account" so they couldn't log in anymore.
 - Next, I removed them from all their department security groups.
 - Finally, I moved their account out of the active employee folder and into a Disabled_Users folder to keep our system clean and organized.
+- Screenshot:
+
+## Ticket 4: Broken Trust Relationship (PC lost connection to the server)
+### The Issue: A user came back from a month-long vacation, and their computer wouldn't let them log in, showing the error: "The trust relationship between this workstation and the primary domain failed."
+### What I Checked: I pinged the server from their PC to make sure the internet and network cables were working. The issue was just that the PC had been offline for so long, it lost its secure sync with Active Directory.
+### How I Fixed It:
+- I logged into their computer using the local admin account.
+- I disconnected the PC from the domain (putting it in a Workgroup) and restarted the computer.
+- Then, I rejoined the PC back to the domain using my admin credentials and restarted it one last time. The user was then able to log in normally.
 - Screenshot:
