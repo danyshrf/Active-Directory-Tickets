@@ -19,3 +19,12 @@
 - Since permissions update when a user logs in, I asked them to log out and log back in.
 - After that, they were able to open the folder and access the files without any issues.
 - Screenshot:
+
+## Ticket 4: Urgent Employee Offboarding
+### The Issue: HR sent an urgent message that an employee left the company suddenly, and we needed to cut off their system access immediately to protect company data.
+### What I Checked: I pulled up their account in ADUC to see exactly what department groups and files they currently had access to.
+### How I Fixed It:
+- First, I right-clicked their account and hit "Disable Account" so they couldn't log in anymore.
+- Next, I removed them from all their department security groups.
+- Finally, I moved their account out of the active employee folder and into a Disabled_Users folder to keep our system clean and organized.
+- Screenshot:
