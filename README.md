@@ -39,7 +39,7 @@
 - First, I right-clicked their account and hit "Disable Account" so they couldn't log in anymore.
 - Next, I removed them from all their department security groups.
 - Finally, I moved their account out of the active employee folder and into a Disabled_Users folder to keep our system clean and organized.
-- Screenshot:
+- Screenshot: ![Showing the disabled account icon and the Disabled Users folder](https://github.com/danyshrf/Active-Directory-Tickets/blob/main/Tickets%20screenshots/3-User_offboard.png)
 
 ## Ticket 5: Broken Trust Relationship (PC lost connection to the server)
 ### The Issue: A user came back from a month-long vacation, and their computer wouldn't let them log in, showing the error: "The trust relationship between this workstation and the primary domain failed."
