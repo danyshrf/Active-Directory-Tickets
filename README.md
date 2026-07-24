@@ -9,7 +9,7 @@
 - I checked the "Unlock account" box and saved it.
 - I asked the user to try logging in again, and they got in successfully.
 - Screenshot: ![The user account got Locked](https://github.com/danyshrf/Active-Directory-Tickets/blob/main/Tickets%20screenshots/1-Account-Lockout.png)
-- ![Checking the unlock account box in ADUC]([ticket1-lockout.png](https://github.com/danyshrf/Active-Directory-Tickets/blob/main/Tickets%20screenshots/1-Account_unlocking.png))
+- ![Checking the unlock account box in ADUC](https://github.com/danyshrf/Active-Directory-Tickets/blob/main/Tickets%20screenshots/1-Account_unlocking.png)
 
 
 ## Ticket 2: Network Drive "Access Denied"
